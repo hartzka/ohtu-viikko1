@@ -1,6 +1,6 @@
 package main;
 
-import Varasto;
+import ohtu.ohtuvarasto.Varasto;
 
 public class Main {
 
