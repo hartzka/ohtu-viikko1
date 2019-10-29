@@ -43,5 +43,3 @@ jobs:
       - run: ./gradlew check
       - run: ./gradlew jacocoTestReport
       - run: bash <(curl -s https://codecov.io/bash)
-	
-      
